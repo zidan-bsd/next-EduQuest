@@ -1,3 +1,6 @@
+
+![EduQuest](https://github.com/zidan-bsd/next-EduQuest/assets/58164324/d86bec92-b79a-44d5-9268-3b3757b2b54b)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
